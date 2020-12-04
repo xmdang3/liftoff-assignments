@@ -10,12 +10,25 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+Forgot Password
 * ![Forgot Password](https://github.com/xmdang3/liftoff-assignments/blob/master/P3-Project_Planning/bp%20wireframe/Forgot%20Password.png)
+
+Hello World
 * ![Hello World](https://github.com/xmdang3/liftoff-assignments/blob/master/P3-Project_Planning/bp%20wireframe/Hello%20World.png)
+
+Homepage
 * ![Homepage](https://github.com/xmdang3/liftoff-assignments/blob/master/P3-Project_Planning/bp%20wireframe/Homepage.png)
+
+Login_Register
 * ![Login_Register](https://github.com/xmdang3/liftoff-assignments/blob/master/P3-Project_Planning/bp%20wireframe/Login_Register.png)
+
+My Account
 * ![My Account](https://github.com/xmdang3/liftoff-assignments/blob/master/P3-Project_Planning/bp%20wireframe/My%20Account.png)
+
+Register
 * ![Register](https://github.com/xmdang3/liftoff-assignments/blob/master/P3-Project_Planning/bp%20wireframe/Register.png)
+
+Reset Password
 * ![Reset Password](https://github.com/xmdang3/liftoff-assignments/blob/master/P3-Project_Planning/bp%20wireframe/Reset%20Password.png)
 
 ### Project Tracker
